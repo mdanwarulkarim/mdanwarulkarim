@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mdanwarulkarim
-- 👀 I’m interested in ...html ,css, php 
-- 🌱 I’m currently learning ... laravel
+- 👀 I’m interested in ...html ,css,javascript & Laravel 
+- 🌱 I’m currently learning ... Flutter mobile App
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
