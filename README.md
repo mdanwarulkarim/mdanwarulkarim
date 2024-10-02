@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mdanwarulkarim
-- 👀 I’m interested in html,css,javascript & Flutter mobile app dev 
+- 👋 Hi, I’m @mdanwarulkarim & BI Analyst
+- 👀 I’m interested in MS Excel,SQL,Power BI, Python
 - 🌱 I’m currently learning UI/UX design mobile & Website Frameowrk 
 - 💞️ I’m looking to collaborate on other company project
 - 📫 How to reach me ...you can conatct me using email karim247live@gmail.com
