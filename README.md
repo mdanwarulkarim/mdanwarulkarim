@@ -71,9 +71,10 @@ I am a Data Scientist with a foundational background in Web Development and UI/U
 #### 🤖 Data Science & Analysis
 * **[Fake News Detection System](https://github.com/mdanwarulkarim/Real-Data-and-Fake-data-News-Detection-using-ML-)** – An NLP-based Machine Learning model that classifies news with high precision using vectorization.
 * **[Pizza Hut Sales Analytics](https://github.com/mdanwarulkarim/Pizzahut_Sales_Report_SQL)** – A deep-dive SQL project analyzing consumer behavior, peak sales hours, and revenue optimization.
+* **[Medical Cost Analytics](https://github.com/mdanwarulkarim/Medical_Cost_Prediction-ML-EDA.git)** - Predicting individual medical insurance charges using patient demographics, health indicators, and engineered interaction features
 
 #### 🏠 SQL database system for managing property listings, customers, and transactions.
-* **[Advanced Real Estate Management System (AREMS)](#)** – A comprehensive SQL-driven system. 
+* **[Advanced Real Estate Management System (AREMS)](https://github.com/mdanwarulkarim/Real_Estate_Database_System-AREMS-.git)** – A comprehensive SQL-driven system. <br>
     * **Features:** Optimized 3NF Schema design, complex ER Modeling, and analytical query structures for property market trends.
 
 #### 🌐 Web Development & Design
@@ -109,9 +110,9 @@ Technologies:
 # 🌐 Connect With Me
 
 GitHub
-- LinkedIn: [https://www.linkedin.com/in/md-anwarul-karim-377a0b194/]
+- LinkedIn: https://www.linkedin.com/in/md-anwarul-karim-377a0b194/
 - Email: karim247live@gmail.com
-- Portfolio: [-website]
+- Portfolio: https://mdanwarulkarim.github.io/Data-Science-portfolio/
 
 # 👀 Profile Visitors
 
