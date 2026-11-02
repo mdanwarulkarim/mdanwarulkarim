@@ -54,14 +54,12 @@ I am a Data Scientist with a foundational background in Web Development and UI/U
 
 ---
 
-### 📊 GitHub Analytics & Streak
+## 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdanwarulkarim&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdanwarulkarim&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdanwarulkarim&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br><br>
+  
 </div>
 
 ---
@@ -117,13 +115,6 @@ Technologies:
 - **Analysis**: Power-BI ,Excel,Looker,Google Colab,Jupyter Notebook
 
 ---
-
-### 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdanwarulkarim&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</div>
-
 ---
 
 # 🐍 Contribution Snake
