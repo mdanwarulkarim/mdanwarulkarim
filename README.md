@@ -1,14 +1,14 @@
 
 # 👋 Hi, I'm Anwarul Karim
 
-🎓 Aspiring **Data Scientist**
-📊 Passionate about **Data Analysis, SQL, Python, and Machine Learning**
-🌍 Based in **Bangladesh**
-📚 Currently learning **Advanced Data Analytics and Data Science**
+🎓 Aspiring **Data Scientist** <br>
+📊 Passionate about **Data Analysis, SQL, Python, and Machine Learning** <br>
+🌍 Based in **Bangladesh** <br>
+📚 Currently learning **Advanced Data Analytics and Data Science** <br>
 
 ---
 ### 💡 Bridging the gap between Web Logic and Data Insights
-I am a Data Scientist with a foundational background in Web Development and UI/UX Design. I specialize in building end-to-end data solutions—from designing the database architecture and user interface to deploying predictive machine learning models.
+I am a Data Scientist with a foundational background in Web Development and UI/UX Design. I specialize in building end-to-end data solutions from designing the database architecture and user interface to deploying predictive machine learning models.
 
 # 🚀 About Me
 
@@ -52,15 +52,17 @@ I am a Data Scientist with a foundational background in Web Development and UI/U
 | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![ScikitLearn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) |
 | ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=power-bi&logoColor=black) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) |
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdanwarulkarim\&show_icons=true\&theme=tokyonight)
-
 ---
 
-# 💻 Most Used Languages
+### 📊 GitHub Analytics & Streak
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdanwarulkarim\&layout=compact\&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdanwarulkarim&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdanwarulkarim&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdanwarulkarim&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
@@ -68,18 +70,39 @@ I am a Data Scientist with a foundational background in Web Development and UI/U
 
 ### 🚀 Featured Work
 
-#### 🤖 Data Science & Analysis
-* **[Fake News Detection System](https://github.com/mdanwarulkarim/Real-Data-and-Fake-data-News-Detection-using-ML-)** – An NLP-based Machine Learning model that classifies news with high precision using vectorization.
-* **[Pizza Hut Sales Analytics](https://github.com/mdanwarulkarim/Pizzahut_Sales_Report_SQL)** – A deep-dive SQL project analyzing consumer behavior, peak sales hours, and revenue optimization.
-* **[Medical Cost Analytics](https://github.com/mdanwarulkarim/Medical_Cost_Prediction-ML-EDA.git)** - Predicting individual medical insurance charges using patient demographics, health indicators, and engineered interaction features
+<details open>
+<summary><b>🤖 Machine Learning & Deep Learning</b></summary>
+<br>
 
-#### 🏠 SQL database system for managing property listings, customers, and transactions.
-* **[Advanced Real Estate Management System (AREMS)](https://github.com/mdanwarulkarim/Real_Estate_Database_System-AREMS-.git)** – A comprehensive SQL-driven system. <br>
-    * **Features:** Optimized 3NF Schema design, complex ER Modeling, and analytical query structures for property market trends.
+- **[LightBASNeSt: Crop Disease Classification](https://github.com/mdanwarulkarim/LightBASNeSt-BlackGram-Disease)** – Lightweight hierarchical computer vision model utilizing RadixASEPConv split-attention and Local Boundary Spatial Attention (LBSA) for automated foliar disease detection.
+- **[Health Insurance Charges Prediction & EDA](https://github.com/mdanwarulkarim/Health-Insurance-Charges-Prediction)** – End-to-end regression framework modeling patient demographic indicators and non-linear risk interaction terms (BMI × Smoking status) to forecast healthcare expenditure.
+- **[Iris Sepal Length Regression: Lasso & Ridge](https://github.com/mdanwarulkarim/Iris-Sepal-Length-Regression-Lasso-Ridge)** – Comparative regularized linear modeling evaluating parameter shrinkage and collinearity reduction.
+- **[Fake News Detection System](https://github.com/mdanwarulkarim/Real-Data-and-Fake-data-News-Detection-using-ML-)** – Natural Language Processing (NLP) classification pipeline utilizing TF-IDF vectorization and supervised estimators to identify misinformation.
 
-#### 🌐 Web Development & Design
-* **[Web Project Title/Name]([Link])** – A fully responsive web application focusing on user experience and clean code.
-* **[Figma UI/UX Showcase]([Link])** – Interactive prototypes focusing on modern, user-centric design patterns for data dashboards.
+</details>
+
+<details open>
+<summary><b>🗄️ SQL Engineering & Business Intelligence</b></summary>
+<br>
+
+- **[Advanced Real Estate Management System (AREMS)](https://github.com/mdanwarulkarim/Real_Estate_Database_System-AREMS-)** – Relational database architecture featuring 3NF schema design, comprehensive EER modeling, and analytical SQL procedures for property listings and transactions.
+- **[Power BI Plant Sales Performance Dashboard](https://github.com/mdanwarulkarim/Power_BI_Sales_Project)** – Interactive executive dashboard delivering year-over-year revenue tracking, gross profit analysis, and regional category performance.
+- **[Pizza Hut Sales Analytics (SQL)](https://github.com/mdanwarulkarim/Pizzahut_Sales_Report_SQL)** – Comprehensive SQL analytical project examining consumer purchasing schedules, peak transaction windows, and revenue contribution across product categories.
+- **[Supershop Sales Analysis (SQL & ETL)](https://github.com/mdanwarulkarim/Supershop_Sales_Analysis_SQL)** – SQL pipeline uncovering consumer demographics, high-value transaction distributions, and category-level growth metrics.
+
+</details>
+
+<details open>
+<summary><b>📊 Exploratory Data Analysis & Statistical Computing</b></summary>
+<br>
+
+- **[Chicago Payroll Data Analysis](https://github.com/mdanwarulkarim/Chicago_Payroll_Data_Exercise_Pandas-Numpy)** – Large-scale municipal compensation analysis in Python (Pandas/NumPy), examining departmental wage distributions and structural overhead trends.
+- **[Customer Purchase Data Analysis](https://github.com/mdanwarulkarim/Customer-Purchase-Data-Analysis-Pandas-Numpy-Exercise-)** – Exploratory behavioral profiling across 30,000 transaction records to extract purchasing frequency and lifetime customer value.
+- **[Coffee Shop Sales Analysis & ML](https://github.com/mdanwarulkarim/Coffee-Shop-Sales-Analysis-EDA-and-ML)** – Exploratory analysis and predictive modeling assessing daily demand cycles, product mix, and revenue factors.
+
+</details>
+
+---
 
 
 
@@ -95,9 +118,11 @@ Technologies:
 
 ---
 
-# 📈 Contribution Graph
+### 📈 Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdanwarulkarim\&theme=tokyo-night)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdanwarulkarim&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</div>
 
 ---
 
