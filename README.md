@@ -128,7 +128,7 @@ Technologies:
 GitHub
 - LinkedIn: https://www.linkedin.com/in/md-anwarul-karim-377a0b194/
 - Email: karim247live@gmail.com
-- Portfolio: https://mdanwarulkarim.github.io/Data-Science-portfolio/
+- Portfolio: https://anwarulkarim-datascience.netlify.app/
 
 # 👀 Profile Visitors
 
