@@ -80,6 +80,18 @@ I am a Data Scientist with a foundational background in Web Development and UI/U
 </details>
 
 <details open>
+<summary><b>🌐 Website Development & UI/UX Design</b></summary>
+<br>
+
+- **[Travel Portfolio Website Showcase](https://github.com/mdanwarulkarim/Travelwebiste)** – Fully responsive travel portfolio web application deployed on GitHub Pages featuring clean layout architecture and immersive UI/UX design.
+- **[ML Studio Web Interface](https://github.com/mdanwarulkarim/ml-studio-website)** – Interactive machine learning model playground interface built with modern web development stacks, providing seamless user navigation and algorithm playback components.
+- **[TazaBazar Grocery E-Commerce App](https://github.com/mdanwarulkarim/TazaBazar-Grocery-E-Commerce)** – Feature-rich e-commerce web platform integrating responsive product grids, user-friendly shopping workflows, and modern interface design systems.
+- **[Student Fitness Web Application](https://github.com/mdanwarulkarim/StudentFitness)** – Client-side fitness tracking and activity dashboard interface optimized for mobile-first responsiveness and intuitive user engagement.
+
+</details>
+
+
+<details open>
 <summary><b>🗄️ SQL Engineering & Business Intelligence</b></summary>
 <br>
 
